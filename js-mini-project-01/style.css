@@ -1,0 +1,19 @@
+.button {   
+    width: 66px;
+        padding: 20px;
+    margin: 0 4px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    background-color: coral;
+    color: white;
+
+    }
+
+    .box input {
+        margin: 0;
+        padding: 11px 30px;
+        border: 2px solid black;
+        border-radius: 5px;
+        font-size: 20px;
+    }
